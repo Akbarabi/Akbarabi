@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on E-Commerce [Monsell](https://github.com/Akbarabi/E-Commerce-NextJS)
 
-- 🌱 I’m currently learning **game dev, stuff related backend web, C# or C++**
+- 🌱 I’m currently learning **stuff related to backend web**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akbarabi](https://github.com/Akbarabi)
 
