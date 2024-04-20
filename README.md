@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Akbar Abi Santoso</h1>
-<h3 align="center">Assionate about server-side web development, specializing in backend technologies</h3>
+<h3 align="center">specializing in backend web</h3>
 
 - 🔭 I’m currently working on E-Commerce [Monsell](https://github.com/Akbarabi/E-Commerce-NextJS)
 
