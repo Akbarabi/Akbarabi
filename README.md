@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on E-Commerce [Monsell](https://github.com/Akbarabi/E-Commerce-NextJS)
 
-- 🌱 I’m currently learning **stuff related to backend web**
+- 🌱 I’m currently learning **stuff related to backend web, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akbarabi](https://github.com/Akbarabi)
 
