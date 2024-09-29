@@ -3,8 +3,6 @@ Hi, I’m Muhammad Akbar Abi Santoso, a passionate web developer currently study
 
 Feel free to explore my repositories and see how I’m constantly learning and improving!
 
-
-## 🌐 Socials:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.abi07) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbar-abi-4724a92a9/) 
