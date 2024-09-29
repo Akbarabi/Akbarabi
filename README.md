@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working nothting<br>🌱 I’m currently learning Firebase and Flutter<br>💬 Ask me about web development and Flutter<br>⚡ Fun fact grass is green
+🔭 I’m currently working nothting<br>🌱 I’m currently learning<br>💬 Ask me about web development<br>⚡ Fun fact grass is green
 
 
 ## 🌐 Socials:
